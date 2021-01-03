@@ -1,4 +1,4 @@
-# HorizontalPicker
+# HorizontalPicker ![Build](https://github.com/AtomicLemon/HorizontalPicker/workflows/Build/badge.svg)
 
 Horizontal Picker made for iOS 14 and above, using Swift/SwiftUI
 
