@@ -9,8 +9,13 @@ I'll add a gif soon
 
 ### Icon Picker:
 ```swift
+import HorizontalPicker
 HIconScroller(icons: ["pencil", "cloud", "cloud.fill", "moon", "moon.stars", "star", "star.circle", "star.fill", "text.badge.star"])
 ```
 
 ## Contributing
 Anyone is welcome to contribute to the package, I'm fairly new to the Swift language so I'd say there's a lot to be improved
+
+## Todo:
+
+* Implement dark/light mode support
