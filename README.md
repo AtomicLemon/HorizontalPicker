@@ -10,6 +10,7 @@ I'll add a gif soon
 ### Icon Picker:
 ```swift
 import HorizontalPicker
+
 HIconScroller(icons: ["pencil", "cloud", "cloud.fill", "moon", "moon.stars", "star", "star.circle", "star.fill", "text.badge.star"])
 ```
 
